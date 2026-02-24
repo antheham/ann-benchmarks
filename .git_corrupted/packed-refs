@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+577d0549fc3c91ec93c0d0768c375bdb72a5006a refs/remotes/origin/ZTE-Release
+80c087496c024310b622b37f3aad605ec86639c6 refs/remotes/origin/lzx-dev
+63b844ea201371e4fe654debf7c2ac81ec14e8b8 refs/remotes/origin/main
